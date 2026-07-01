@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+# ide
+.idea
+tmp
+
+# upload files
+uploads
+
+# Run process files
+*.exe
+*.rar
+*.zip
+*.tar
+*.gz
+*linux*
+*macos*
+
+#log files
+*.log
